@@ -1,0 +1,1043 @@
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP_Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+D:\Graduation Project\Alif.GP.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CopyComplete
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CopyComplete
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\appsettings.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.staticwebassets.runtime.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.exe
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.deps.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.runtimeconfig.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Service.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.AssemblyReference.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfoInputs.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.AssemblyInfo.cs
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.csproj.CoreCompileInputs.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Alif.GP.APIs.props
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alif.GP.APIs.props
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alif.GP.APIs.props
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\scopedcss\bundle\Alif.GP.APIs.styles.css
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\refint\Alif.GP.APIs.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.genruntimeconfig.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\ref\Alif.GP.APIs.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP.APIs.sourcelink.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.GP.APIs\obj\Debug\net6.0\Alif.GP..D4367E9C.Up2Date

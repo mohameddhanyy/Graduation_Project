@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Alif.core",
+    "\\Alif.core\\Specifications",
+    "\\Alif.core\\Specifications\\AnimalSpecification",
+    "\\Alif.GP.APIs",
+    "\\Alif.GP.APIs\\Controllers",
+    "\\Alif.GP.APIs\\DTOs",
+    "\\Alif.Repository",
+    "\\Alif.Repository\\Data",
+    "\\Alif.Repository\\Data\\Confg"
+  ],
+  "SelectedNode": "\\Alif.Repository\\Data\\Confg\\AdaptAnimalConfigration.cs",
+  "PreviewInSolutionExplorer": false
+}

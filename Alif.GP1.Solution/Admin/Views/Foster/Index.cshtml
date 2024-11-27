@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Foster>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4 text-primary">Fosters</h1>
+@*    <p class="text-right">
+        <a asp-action="Create" class="btn btn-primary">Create New Foster</a>
+    </p>
+*@
+
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Owner Name</th>
+                <th>Available Places</th>
+                <th>Phone</th>
+                <th>For Day</th>
+                <th>For Week</th>
+                <th>For Month</th>
+                <th>Location</th>
+                <th>Description</th>
+                <th>Approval</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.FOwnername)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FAvailablePlaces)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FPhone)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ForDay)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ForWeek)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ForMonth)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FLocation)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FDescripation)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FApproval)</td>
+                    <td>
+                        <img src="~/images/@item.Image" alt="Foster Image" style="max-width: 200px; max-height: 200px;" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

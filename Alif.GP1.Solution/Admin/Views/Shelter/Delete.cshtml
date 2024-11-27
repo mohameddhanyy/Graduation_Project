@@ -1,0 +1,49 @@
+﻿@model Alif.Core.Entities.Shelter
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-5">
+    <h2>Delete Shelter</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/@Model.Image" alt="Shelter Image" style="max-width: 100%;" />
+        </div>
+        <div class="col-md-9">
+            <dl class="row">
+                <dt class="col-sm-3">Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SName)</dd>
+
+                <dt class="col-sm-3">Location</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SLocation)</dd>
+
+                <dt class="col-sm-3">Manager Phone</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ManagerPhone)</dd>
+
+                <dt class="col-sm-3">Available Places</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.AvailablePlaces)</dd>
+
+                <dt class="col-sm-3">Shelter Email</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SEmail)</dd>
+
+            </dl>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <h3>Are you sure you want to delete this shelter?</h3>
+
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index" class="btn btn-primary">Back to List</a>
+        </div>
+    </form>
+</div>

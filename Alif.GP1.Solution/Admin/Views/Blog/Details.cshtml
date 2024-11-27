@@ -1,0 +1,37 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Blog Details";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">@Model.Subject</h2>
+
+    <div class="row">
+        <div class="col-md-6 offset-md-3 text-center">
+            <img src="~/images/@Model.BImage" alt="Blog Image" class="img-fluid rounded mb-4" />
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Blog Information</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">Subject</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Subject)</dd>
+
+                <dt class="col-sm-3">Date</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.BDate)</dd>
+
+                <dt class="col-sm-3">Description</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.BDiscreption)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="~/images/@Model?.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

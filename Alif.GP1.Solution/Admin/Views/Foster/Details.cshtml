@@ -1,0 +1,54 @@
+﻿@model Foster
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <h1>Details</h1>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/images/@Model.Image" alt="Foster Image" class="img-fluid mb-4" />
+        </div>
+
+        <div class="col-md-6">
+            <h4>Foster Information</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-4">Owner Name:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FOwnername)</dd>
+
+                <dt class="col-sm-4">Available Places:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FAvailablePlaces)</dd>
+
+                <dt class="col-sm-4">Phone:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FPhone)</dd>
+
+                <dt class="col-sm-4">For Day:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ForDay)</dd>
+
+                <dt class="col-sm-4">For Week:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ForWeek)</dd>
+
+                <dt class="col-sm-4">For Month:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.ForMonth)</dd>
+
+                <dt class="col-sm-4">Location:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FLocation)</dd>
+
+                <dt class="col-sm-4">Description:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FDescripation)</dd>
+
+                <dt class="col-sm-4">Approval:</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.FApproval)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a> |
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

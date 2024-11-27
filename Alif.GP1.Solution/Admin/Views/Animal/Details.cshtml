@@ -1,0 +1,83 @@
+﻿@model Animals
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Animal</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnimalName)
+        </dd>
+
+        <dt class="col-sm-2">
+            Age
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnimalAge)
+        </dd>
+
+        <dt class="col-sm-2">
+            Type
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Type.Name)
+        </dd>
+
+
+        <dt class="col-sm-2">
+            Location
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnimalLocation)
+        </dd>
+
+        <dt class="col-sm-2">
+            Medical Need
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnimalMedicalNeed)
+        </dd>
+
+        <dt class="col-sm-2">
+            Activity Level
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnaimalActivityLevel)
+        </dd>
+
+        <dt class="col-sm-2">
+            Peed Need
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnaimalPeeped)
+        </dd>
+
+        <dt class="col-sm-2">
+            Gender
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnaimalGender)
+        </dd>
+
+        <dt class="col-sm-2">
+            Image
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/images/@Model.AnimalIamge" alt="Animal Image" style="max-width: 200px; max-height: 200px;" />
+        </dd>
+
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

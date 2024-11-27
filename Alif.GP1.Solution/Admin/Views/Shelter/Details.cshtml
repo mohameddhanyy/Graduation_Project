@@ -1,0 +1,43 @@
+﻿@model Alif.Core.Entities.Shelter
+
+@{
+    ViewData["Title"] = "Shelter Details";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">@Model.SName</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Shelter Information</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SName)</dd>
+
+                <dt class="col-sm-3">Location</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SLocation)</dd>
+
+                <dt class="col-sm-3">Shelter Email</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SEmail)</dd>
+
+
+                <dt class="col-sm-3">Manager Phone</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ManagerPhone)</dd>
+
+                <dt class="col-sm-3">Available Places</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.AvailablePlaces)</dd>
+
+                <dt class="col-sm-3">Image</dt>
+                <dd class="col-sm-9">
+                    <img src="~/images/@Model.Image" alt="Shelter Image" class="img-fluid rounded mb-4" />
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

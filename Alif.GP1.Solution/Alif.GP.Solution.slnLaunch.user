@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Alif.GP.APIs\\Alif.GP.APIs.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "Admin\\Admin.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]

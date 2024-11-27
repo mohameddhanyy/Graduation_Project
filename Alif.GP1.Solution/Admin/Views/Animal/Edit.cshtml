@@ -1,0 +1,89 @@
+﻿@model Animals
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Animal</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <label asp-for="AnimalName" class="control-label"></label>
+                <input asp-for="AnimalName" class="form-control" />
+                <span asp-validation-for="AnimalName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnimalAge" class="control-label"></label>
+                <input asp-for="AnimalAge" class="form-control" />
+                <span asp-validation-for="AnimalAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusWithKid" class="control-label">Status With Kid</label>
+                <input asp-for="StatusWithKid" class="form-control" />
+                <span asp-validation-for="StatusWithKid" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="StatusWithAnimal" class="control-label">Status With Animal</label>
+                <input asp-for="StatusWithAnimal" class="form-control" />
+                <span asp-validation-for="StatusWithAnimal" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnimalLocation" class="control-label">Location</label>
+                <input asp-for="AnimalLocation" class="form-control" />
+                <span asp-validation-for="AnimalLocation" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnimalMedicalNeed" class="control-label">Medical Need</label>
+                <input asp-for="AnimalMedicalNeed" class="form-control" />
+                <span asp-validation-for="AnimalMedicalNeed" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnaimalActivityLevel" class="control-label">Activity Level</label>
+                <input asp-for="AnaimalActivityLevel" class="form-control" />
+                <span asp-validation-for="AnaimalActivityLevel" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnaimalPeeped" class="control-label">Peeped</label>
+                <input asp-for="AnaimalPeeped" class="form-control" />
+                <span asp-validation-for="AnaimalPeeped" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnaimalGender" class="control-label">Gender</label>
+                <input asp-for="AnaimalGender" class="form-control" />
+                <span asp-validation-for="AnaimalGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnimalTypeId" class="control-label">Gender Type Number</label>
+                <input asp-for="AnimalTypeId" class="form-control" />
+                <span asp-validation-for="AnimalTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

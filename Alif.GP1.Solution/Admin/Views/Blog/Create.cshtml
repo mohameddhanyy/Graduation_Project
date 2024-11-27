@@ -1,0 +1,44 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create New Blog</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Subject" class="control-label"></label>
+                <input asp-for="Subject" class="form-control" />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BDate" class="control-label"></label>
+                <input asp-for="BDate" class="form-control" />
+                <span asp-validation-for="BDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BDiscreption" class="control-label"></label>
+                <input asp-for="BDiscreption" class="form-control" />
+                <span asp-validation-for="BDiscreption" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+                    <label asp-for="BImage" class="control-label">Image</label>
+                <input type="file" asp-for="BImage" class="form-control-file" />
+                <span asp-validation-for="BImage" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,42 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-5">
+    <h2>Delete Blog</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/@Model.BImage" alt="Blog Image" style="max-width: 100%;" />
+        </div>
+        <div class="col-md-9">
+            <dl class="row">
+                <dt class="col-sm-3">Subject</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Subject)</dd>
+
+                <dt class="col-sm-3">Date</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.BDate)</dd>
+
+                <dt class="col-sm-3">Description</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.BDiscreption)</dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <h3 style="text-decoration-color">Are you sure you want to delete this blog?</h3>
+
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index" class="btn btn-primary">Back to List</a>
+        </div>
+    </form>
+</div>

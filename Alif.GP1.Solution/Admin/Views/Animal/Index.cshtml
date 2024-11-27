@@ -1,0 +1,117 @@
+﻿@model AdminPanelViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4 text-primary">Animals</h1>
+
+    <h2 class="text-center mb-4 text-success">Available Animals</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Animals.Where(a => a.Status == true))
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.AnimalName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AnimalAge)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AnaimalGender)</td>
+                    <td>
+                        <img src="~/images/@item.AnimalIamge" alt="Animal Image" style="max-width: 100px; max-height: 100px;" />
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                        <form asp-action="Delete" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h2 class="text-center mt-5 mb-4 text-warning">Requests from Users to Upload Animal</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Animals.Where(a => a.Status == false))
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.AnimalName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AnimalAge)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AnaimalGender)</td>
+                    <td>
+                        <img src="~/images/@item.AnimalIamge" alt="Animal Image" style="max-width: 100px; max-height: 100px;" />
+                    </td>
+                    <td>
+                        <form asp-action="Accept" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-success btn-sm">Accept</button>
+                        </form>
+                        <form asp-action="Delete" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+        <h2 class="text-center mt-5 mb-4 text-warning">Adoption Requests</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>User</th>
+                <th>Animal</th>
+                <th>Reasons</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model.AdaptAnimals)
+            {
+                <tr>
+                    <td>@request.User.UserName</td>
+                    <td>@request.Animal.AnimalName</td>
+                    <td>@request.adoptionReasons</td>
+                    <td>@request.Status</td>
+                    <td>
+                        @if (request.Status == "Pending")
+                        {
+                            <form asp-action="AcceptAdoption" method="post" style="display:inline;">
+                                <input type="hidden" name="userId" value="@request.AppUserId" />
+                                <input type="hidden" name="animalId" value="@request.AnimalId" />
+                                <button type="submit" class="btn btn-success btn-sm">Accept</button>
+                            </form>
+                            <form asp-action="RejectAdoption" method="post" style="display:inline;">
+                                <input type="hidden" name="userId" value="@request.AppUserId" />
+                                <input type="hidden" name="animalId" value="@request.AnimalId" />
+                                <button type="submit" class="btn btn-danger btn-sm">Reject</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

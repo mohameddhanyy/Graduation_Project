@@ -1,0 +1,83 @@
+﻿@model Foster
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Foster</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="col-md-6">
+                <img src="~/images/@Model.Image" alt="Foster Image" class="img-fluid mb-4" style="max-width: 2000%; max-height: 2000px;" />
+            </div>
+
+
+            <div class="form-group">
+                <label  class="control-label">Owner Name</label>
+                <input asp-for="FOwnername" class="form-control" />
+                <span asp-validation-for="FOwnername" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Available Places</label>
+                <input asp-for="FAvailablePlaces" class="form-control" />
+                <span asp-validation-for="FAvailablePlaces" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Phone</label>
+                <input asp-for="FPhone" class="form-control" />
+                <span asp-validation-for="FPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Cost For Day</label>
+                <input asp-for="ForDay" class="form-control" />
+                <span asp-validation-for="ForDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Cost For Week</label>
+                <input asp-for="ForWeek" class="form-control" />
+                <span asp-validation-for="ForWeek" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Cost For Month</label>
+                <input asp-for="ForMonth" class="form-control" />
+                <span asp-validation-for="ForMonth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Location</label>
+                <input asp-for="FLocation" class="form-control" />
+                <span asp-validation-for="FLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label  class="control-label"> Description</label>
+                <input asp-for="FDescripation" class="form-control" />
+                <span asp-validation-for="FDescripation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label"> Approval </label>
+                <input asp-for="FApproval" class="form-control" />
+                <span asp-validation-for="FApproval" class="text-danger"></span>
+             </div>
+                <div class="form-group">
+                    <label asp-for="Image" class="control-label">Image</label>
+                    <input type="file" asp-for="Image" class="form-control-file" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+                <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

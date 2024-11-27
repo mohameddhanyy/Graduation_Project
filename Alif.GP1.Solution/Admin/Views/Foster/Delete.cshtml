@@ -1,0 +1,60 @@
+﻿@model Foster
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-5">
+    <h1>Delete Foster</h1>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/@Model.Image" alt="Foster Image" style="max-width: 100%;" />
+        </div>
+        <div class="col-md-9">
+            <dl class="row">
+                <dt class="col-sm-3">Owner Name</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FOwnername)</dd>
+
+                <dt class="col-sm-3">Available Places</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FAvailablePlaces)</dd>
+
+                <dt class="col-sm-3">Phone</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FPhone)</dd>
+
+                <dt class="col-sm-3">For Day</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ForDay)</dd>
+
+                <dt class="col-sm-3">For Week</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ForWeek)</dd>
+
+                <dt class="col-sm-3">For Month</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ForMonth)</dd>
+
+                <dt class="col-sm-3">Location</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FLocation)</dd>
+
+                <dt class="col-sm-3">Description</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FDescripation)</dd>
+
+                <dt class="col-sm-3">Approval</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.FApproval)</dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-3">
+    <h3>Are you sure you want to delete this foster?</h3>
+
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index" class="btn btn-primary">Back to List</a>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|solutionrelative:alif.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.repository\\specificationsevalutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|solutionrelative:alif.repository\\specificationsevalutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.repository\\useradaptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|solutionrelative:alif.repository\\useradaptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.repository\\data\\alifcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C553EFB-68FA-4CBE-9534-9E330C445E06}|Alif.Repository\\Alif.Repository.csproj|solutionrelative:alif.repository\\data\\alifcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FB022-C794-4736-AE4A-FAA430FE318B}|Alif.Service\\Alif.Service.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FB022-C794-4736-AE4A-FAA430FE318B}|Alif.Service\\Alif.Service.csproj|solutionrelative:alif.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\lostanimalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\lostanimalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\fostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\fostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\sheltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\fostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\fostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\admin\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CE79C4-5FF1-4FA6-8734-2073D7263EEF}|Admin\\Admin.csproj|solutionrelative:admin\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A1F827-97C3-41A8-96FB-A3A7CB9D6866}|Alif.core\\Alif.Core.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A1F827-97C3-41A8-96FB-A3A7CB9D6866}|Alif.core\\Alif.Core.csproj|solutionrelative:alif.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|e:\\gp new77\\gp new55\\gp new22\\gp new\\alif.gp1.solution\\alif.gp.apis\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB648BC-56DB-4165-9983-29A6DC1BAFE3}|Alif.GP.APIs\\Alif.GP.APIs.csproj|solutionrelative:alif.gp.apis\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\appsettings.json",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\appsettings.json",
+              "RelativeToolTip": "Alif.GP.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T17:04:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlifContext.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\Data\\AlifContext.cs",
+              "RelativeDocumentMoniker": "Alif.Repository\\Data\\AlifContext.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\Data\\AlifContext.cs",
+              "RelativeToolTip": "Alif.Repository\\Data\\AlifContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:04:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "Admin\\appsettings.json",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\appsettings.json",
+              "RelativeToolTip": "Admin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T17:04:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Program.cs",
+              "RelativeDocumentMoniker": "Admin\\Program.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Program.cs",
+              "RelativeToolTip": "Admin\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:03:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\WeatherForecast.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\WeatherForecast.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:00:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Alif.Repository\\GenericRepository.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Alif.Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:00:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecificationsEvalutor.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\SpecificationsEvalutor.cs",
+              "RelativeDocumentMoniker": "Alif.Repository\\SpecificationsEvalutor.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\SpecificationsEvalutor.cs",
+              "RelativeToolTip": "Alif.Repository\\SpecificationsEvalutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:00:06.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAdaptRepo.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\UserAdaptRepo.cs",
+              "RelativeDocumentMoniker": "Alif.Repository\\UserAdaptRepo.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Repository\\UserAdaptRepo.cs",
+              "RelativeToolTip": "Alif.Repository\\UserAdaptRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:59:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Program.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Program.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:59:41.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Alif.Service\\AuthService.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.Service\\AuthService.cs",
+              "RelativeToolTip": "Alif.Service\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:59:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:12:28.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShelterController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\ShelterController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\ShelterController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\ShelterController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\ShelterController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:11:43.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\VideoController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\VideoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:11:42.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LostAnimalController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\LostAnimalController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\LostAnimalController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\LostAnimalController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\LostAnimalController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\ErrorController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:11:27.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:11:00.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:10:56.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:10:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:10:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShelterController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\ShelterController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\ShelterController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\ShelterController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\ShelterController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:09:58.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:09:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:09:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FosterController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\FosterController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\FosterController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\FosterController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\FosterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FosterController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\FosterController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\FosterController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\FosterController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\FosterController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:09:31.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\AnimalController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\AnimalController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:08:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAUwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:19:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAswNEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:33:04.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\Controllers\\AnimalsController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:37:30.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:08:33.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T01:49:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T01:48:29.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T01:47:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T01:47:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAywDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T01:47:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.core\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Alif.core\\Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.core\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Alif.core\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:43:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Blog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Admin\\Views\\Blog\\Edit.cshtml",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Admin\\Views\\Blog\\Edit.cshtml",
+              "RelativeToolTip": "Admin\\Views\\Blog\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T03:19:56.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Alif.GP.APIs\\DTOs\\RegisterDto.cs",
+              "ToolTip": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Alif.GP.APIs\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:35:07.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

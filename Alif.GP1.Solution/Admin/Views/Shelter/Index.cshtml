@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Alif.Core.Entities.Shelter>
+
+@{
+    ViewData["Title"] = "Shelter Index";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4 text-primary">Shelters</h1>
+
+    <p class="text-right">
+        <a asp-action="Create" class="btn btn-primary">Create New Shelter</a>
+    </p>
+
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Manager Phone</th>
+                <th>Available Places</th>
+                <th>Email</th>
+                <th>Image</th>
+                <th>Actions</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.SName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SLocation)</td>
+                    <td>@Html.DisplayFor(modelItem => item.ManagerPhone)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AvailablePlaces)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SEmail)</td>
+
+                    <td>
+                        <img src="~/images/@item.Image" alt="Shelter Image" style="width: 300px; max-height: 300px;" />
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,187 @@
+D:\GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+C:\Users\Dell\Desktop\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP_Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+D:\Graduation Project\Alif.GP.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CopyComplete
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CopyComplete
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+E:\Documents\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW66\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.deps.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\bin\Debug\net6.0\Alif.Core.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.AssemblyReference.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfoInputs.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.AssemblyInfo.cs
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.csproj.CoreCompileInputs.cache
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\refint\Alif.Repository.dll
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.pdb
+D:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\ref\Alif.Repository.dll
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Repository.sourcelink.json
+E:\GP NEW77\GP NEW55\GP NEW22\GP NEW\Alif.GP1.Solution\Alif.Repository\obj\Debug\net6.0\Alif.Rep.66ABBD05.Up2Date

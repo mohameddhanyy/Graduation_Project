@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images.rar",
+      "PackagePath": "staticwebassets\\images.rar"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\.jpg",
+      "PackagePath": "staticwebassets\\images\\.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\000aa306a-3.jpg",
+      "PackagePath": "staticwebassets\\images\\000aa306a-3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\00af25fc0-2.jpg",
+      "PackagePath": "staticwebassets\\images\\00af25fc0-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\00cd4914c-1.jpg",
+      "PackagePath": "staticwebassets\\images\\00cd4914c-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\069b5cf7-1b8f-44a2-ac8e-bb2b52b37b6c.jpg",
+      "PackagePath": "staticwebassets\\images\\069b5cf7-1b8f-44a2-ac8e-bb2b52b37b6c.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0a6b9433e-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0a6b9433e-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0b151360c-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0b151360c-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0b74e375f-2.jpg",
+      "PackagePath": "staticwebassets\\images\\0b74e375f-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0b8e1dd80-4.jpg",
+      "PackagePath": "staticwebassets\\images\\0b8e1dd80-4.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0c3931980-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0c3931980-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0c46298f8-2.jpg",
+      "PackagePath": "staticwebassets\\images\\0c46298f8-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0c66a7d25-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0c66a7d25-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0ca52e744-5.jpg",
+      "PackagePath": "staticwebassets\\images\\0ca52e744-5.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0cad8b10e-5.jpg",
+      "PackagePath": "staticwebassets\\images\\0cad8b10e-5.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0cc3e27b5-12.jpg",
+      "PackagePath": "staticwebassets\\images\\0cc3e27b5-12.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0d55c2e2b-3.jpg",
+      "PackagePath": "staticwebassets\\images\\0d55c2e2b-3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0de7b2448-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0de7b2448-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0e1b8bb74-2.jpg",
+      "PackagePath": "staticwebassets\\images\\0e1b8bb74-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0e61fe015-5.jpg",
+      "PackagePath": "staticwebassets\\images\\0e61fe015-5.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0e8c2a1aa-2.jpg",
+      "PackagePath": "staticwebassets\\images\\0e8c2a1aa-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0eb9916ad-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0eb9916ad-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0ec3c6ca-a2a7-4ab1-94f5-4d9a58695c35.jpg",
+      "PackagePath": "staticwebassets\\images\\0ec3c6ca-a2a7-4ab1-94f5-4d9a58695c35.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0f15ed6ab-3.jpg",
+      "PackagePath": "staticwebassets\\images\\0f15ed6ab-3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\0f6c2d090-3.jpg",
+      "PackagePath": "staticwebassets\\images\\0f6c2d090-3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1a018ef15-4.jpg",
+      "PackagePath": "staticwebassets\\images\\1a018ef15-4.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1b433696a-1.jpg",
+      "PackagePath": "staticwebassets\\images\\1b433696a-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1d5524b77-1.jpg",
+      "PackagePath": "staticwebassets\\images\\1d5524b77-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1d6e895fc-2.jpg",
+      "PackagePath": "staticwebassets\\images\\1d6e895fc-2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1d8476c11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\1d8476c11-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\1d8cd3f86-3.jpg",
+      "PackagePath": "staticwebassets\\images\\1d8cd3f86-3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\5c679b8fb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\5c679b8fb-5.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\6a00d8347a49a469e202c8d3b1e90d200c-500wi.jpg",
+      "PackagePath": "staticwebassets\\images\\6a00d8347a49a469e202c8d3b1e90d200c-500wi.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\6a00d8347a49a469e202c8d3b54984200b-800wi.jbg.png",
+      "PackagePath": "staticwebassets\\images\\6a00d8347a49a469e202c8d3b54984200b-800wi.jbg.png"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\75ca4ddb-342e-4741-a08a-242c81e31773.jpg",
+      "PackagePath": "staticwebassets\\images\\75ca4ddb-342e-4741-a08a-242c81e31773.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\7ae7e5a6-ebec-47e0-801e-bc903041f0cc.jpg",
+      "PackagePath": "staticwebassets\\images\\7ae7e5a6-ebec-47e0-801e-bc903041f0cc.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\Dog-Attack-scaled-e1595403089769.jpg",
+      "PackagePath": "staticwebassets\\images\\Dog-Attack-scaled-e1595403089769.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\GettyImages-912145654-209bc347a59f42d693a356549ef6cf11.jpg",
+      "PackagePath": "staticwebassets\\images\\GettyImages-912145654-209bc347a59f42d693a356549ef6cf11.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\images\\OIP (1).jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\OIP (2).jpg",
+      "PackagePath": "staticwebassets\\images\\OIP (2).jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\OIP (3).jpg",
+      "PackagePath": "staticwebassets\\images\\OIP (3).jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\OIP.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\R.jpg",
+      "PackagePath": "staticwebassets\\images\\R.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\be7ed4d1-1924-4d20-9d63-349ccab60508.png",
+      "PackagePath": "staticwebassets\\images\\be7ed4d1-1924-4d20-9d63-349ccab60508.png"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\d7495feb-0ed3-45fb-8536-429c404f961f.jpg",
+      "PackagePath": "staticwebassets\\images\\d7495feb-0ed3-45fb-8536-429c404f961f.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\dd349d1d-90bc-4c04-9a5e-347a072773ab.jpg",
+      "PackagePath": "staticwebassets\\images\\dd349d1d-90bc-4c04-9a5e-347a072773ab.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\dog-training.jpg",
+      "PackagePath": "staticwebassets\\images\\dog-training.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (1).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\download (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (2).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\download (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\download (3).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\download - Copy.jpeg",
+      "PackagePath": "staticwebassets\\images\\download - Copy.jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\download.jpg",
+      "PackagePath": "staticwebassets\\images\\download.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\downloada.jpeg",
+      "PackagePath": "staticwebassets\\images\\downloada.jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000002.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000002.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000006.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000006.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000021.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000021.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000033.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000033.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000045.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000045.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000047.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000047.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000244.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000244.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000353.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000353.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000421.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000421.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_cat_000466.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_cat_000466.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000017.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000017.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000020.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000020.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000069.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000069.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000088.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000088.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000180.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000180.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000189.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000189.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000351.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000351.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000558.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000558.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000740.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000740.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\flickr_dog_000838.jpg",
+      "PackagePath": "staticwebassets\\images\\flickr_dog_000838.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (1).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (2).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (3).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (4).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (4).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (5).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (5).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image (6).jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image (6).jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\get_image.jpeg",
+      "PackagePath": "staticwebassets\\images\\get_image.jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\golden3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\golden3-1.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\haircuting-process-small-dog-sits-table-dog-with-professional_1157-48820 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\haircuting-process-small-dog-sits-table-dog-with-professional_1157-48820 (1).jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\haircuting-process-small-dog-sits-table-dog-with-professional_1157-48820.jpg",
+      "PackagePath": "staticwebassets\\images\\haircuting-process-small-dog-sits-table-dog-with-professional_1157-48820.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\iStock-1332107752.jpg",
+      "PackagePath": "staticwebassets\\images\\iStock-1332107752.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\images (1).jpg",
+      "PackagePath": "staticwebassets\\images\\images (1).jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\img-tim-faulkner-with-joey.jpg",
+      "PackagePath": "staticwebassets\\images\\img-tim-faulkner-with-joey.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\istockphoto-837572972-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\istockphoto-837572972-612x612.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\istockphoto-912754932-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\istockphoto-912754932-612x612.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\koda_3.jpg",
+      "PackagePath": "staticwebassets\\images\\koda_3.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pet_blog.jpg",
+      "PackagePath": "staticwebassets\\images\\pet_blog.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-brixiv-10353737.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-brixiv-10353737.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-isaac-taylor-3798240.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-isaac-taylor-3798240.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-luis-rosero-5578964.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-luis-rosero-5578964.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-milica-popovic-1573919.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-milica-popovic-1573919.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-mithul-varshan-2408649.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-mithul-varshan-2408649.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-mustafa-ezz-691583.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-mustafa-ezz-691583.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-peng-louis-1653357.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-peng-louis-1653357.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-pixabay-208984.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-pixabay-208984.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-roman-odintsov-12715260.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-roman-odintsov-12715260.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-roshan-kamath-1661179.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-roshan-kamath-1661179.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-shivam-gurjar-11905195.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-shivam-gurjar-11905195.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-svetozar-milashevich-1490908.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-svetozar-milashevich-1490908.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-weigner-luan-7163498.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-weigner-luan-7163498.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-yaroslav-shuraev-4503543.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-yaroslav-shuraev-4503543.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pexels-наталья-семенкова-991831.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-наталья-семенкова-991831.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_cat_000263.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_cat_000263.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_cat_001597.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_cat_001597.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_cat_002095.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_cat_002095.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_dog_000065.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_dog_000065.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_dog_003977.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_dog_003977.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_dog_004030.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_dog_004030.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\pixabay_dog_004033.jpg",
+      "PackagePath": "staticwebassets\\images\\pixabay_dog_004033.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\skjhdsjlk.jpg",
+      "PackagePath": "staticwebassets\\images\\skjhdsjlk.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\sys_media_4656.jpg",
+      "PackagePath": "staticwebassets\\images\\sys_media_4656.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\ttr_TNPLP_0013_600x1000.jpg",
+      "PackagePath": "staticwebassets\\images\\ttr_TNPLP_0013_600x1000.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\two-adorable-little-purebred-kittens-260nw-2357730429.webp",
+      "PackagePath": "staticwebassets\\images\\two-adorable-little-purebred-kittens-260nw-2357730429.webp"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\images\\zanzan_2.jpg",
+      "PackagePath": "staticwebassets\\images\\zanzan_2.jpg"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\1010VID_٢٠٢٤٠٦٠٧٢٣٥٦٣٠.mp4",
+      "PackagePath": "staticwebassets\\videos\\1010VID_٢٠٢٤٠٦٠٧٢٣٥٦٣٠.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\111VID_٢٠٢٤٠٦٠٧٢٠٣٥٠٧.mp4",
+      "PackagePath": "staticwebassets\\videos\\111VID_٢٠٢٤٠٦٠٧٢٠٣٥٠٧.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\222VID_٢٠٢٤٠٦٠٧٢٠٤١٤١.mp4",
+      "PackagePath": "staticwebassets\\videos\\222VID_٢٠٢٤٠٦٠٧٢٠٤١٤١.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\3333VID_٢٠٢٤٠٦٠٧٢٠٤٤٠٢.mp4",
+      "PackagePath": "staticwebassets\\videos\\3333VID_٢٠٢٤٠٦٠٧٢٠٤٤٠٢.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\4444VID_٢٠٢٤٠٦٠٧٢٠٤٥٥٣.mp4",
+      "PackagePath": "staticwebassets\\videos\\4444VID_٢٠٢٤٠٦٠٧٢٠٤٥٥٣.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\5555VID_٢٠٢٤٠٦٠٧٢٣٣٨٥٦.mp4",
+      "PackagePath": "staticwebassets\\videos\\5555VID_٢٠٢٤٠٦٠٧٢٣٣٨٥٦.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\666VID_٢٠٢٤٠٦٠٧٢٣٤١٤٥.mp4",
+      "PackagePath": "staticwebassets\\videos\\666VID_٢٠٢٤٠٦٠٧٢٣٤١٤٥.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\7777VID_٢٠٢٤٠٦٠٧٢٣٤٣٢٦.mp4",
+      "PackagePath": "staticwebassets\\videos\\7777VID_٢٠٢٤٠٦٠٧٢٣٤٣٢٦.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\888VID_٢٠٢٤٠٦٠٧٢٣٥٣١٧.mp4",
+      "PackagePath": "staticwebassets\\videos\\888VID_٢٠٢٤٠٦٠٧٢٣٥٣١٧.mp4"
+    },
+    {
+      "Id": "E:\\GP NEW77\\GP NEW55\\GP NEW22\\GP NEW\\Alif.GP1.Solution\\Alif.GP.APIs\\wwwroot\\videos\\9999VID_٢٠٢٤٠٦٠٧٢٣٥٥٣٤.mp4",
+      "PackagePath": "staticwebassets\\videos\\9999VID_٢٠٢٤٠٦٠٧٢٣٥٥٣٤.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Alif.GP.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Alif.GP.APIs.props",
+      "PackagePath": "build\\Alif.GP.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Alif.GP.APIs.props",
+      "PackagePath": "buildMultiTargeting\\Alif.GP.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Alif.GP.APIs.props",
+      "PackagePath": "buildTransitive\\Alif.GP.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
